@@ -1,4 +1,4 @@
-﻿# Celery Assignment 📚 ****[Demo](https://youtu.be/2a4Zi53JkBY)****
+﻿## Celery Assignment 📚 ****[Demo](https://youtu.be/2a4Zi53JkBY)****
 ## what steps i have taken
 1 udate python version to  3.12.10 from 3.10 and set it as default version <br>
 2 create  <br>
